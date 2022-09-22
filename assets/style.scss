@@ -13,7 +13,7 @@
 /* BASE RULES */
 /**************/
 
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=DM+Sans|DM+Mono');
 
 html {
   font-size: 100%;
@@ -22,7 +22,7 @@ html {
 
 body {
   background: #fff;
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: "DM Sans", -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #404040;
   line-height: 1.7;
   font-weight: 400;
@@ -38,14 +38,14 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: "DM Sans", -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: $darkerGray;
   font-weight: bold;
 
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
-  text-align: center;
+  text-align: initial;
 
   @include mobile {
     line-height: 1.4;
@@ -64,11 +64,12 @@ h2 {
 }
 
 @media (min-width: 769px){
-	.post h2::before, .post h2::after {
+	// .post h2::before, .post h2::after {
+  .post h2::after {
 	    content: "";
 	    display: inline-block;
 	    vertical-align: middle;
-	    width: 46px;
+	    width: 92px;
 	    height: 1px;
 	    background: rgb(192, 211, 218);
 	    margin: 0px 30px;
@@ -308,8 +309,8 @@ p > img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 300;
+  font-family: "DM Mono";
+  font-weight: bold;
   font-size: 28px;
   letter-spacing: 1px;
   text-align: left;
@@ -320,7 +321,7 @@ p > img {
 }
 
 .site-description {
-  margin: -5px 0 0 0;
+  margin: 4px 0 0 0;
   color: $gray;
   font-size: 16px;
 
@@ -446,8 +447,8 @@ body:after {
 }
 
 .post h1{
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  text-align: center;
+  font-family: "DM Sans", -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  text-align: initial;
   font-weight: bold;
   font-kerning: auto;
   font-feature-settings: "kern","liga","dlig","hlig","cswh";
@@ -455,8 +456,8 @@ body:after {
 }
 
 .page h1{
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  text-align: center;
+  font-family: "DM Sans", -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  text-align: initial;
   font-weight: bold;
   font-kerning: auto;
   font-feature-settings: "kern","liga","dlig","hlig","cswh";
@@ -464,20 +465,22 @@ body:after {
 }
 
 .author_title{
-  text-align: center;
+  text-align: initial;
   color: #939aa1;
   letter-spacing: 2px;
+  font-family: "DM Mono"
 }
 
 .post_date{
-  text-align: center;
+  text-align: initial;
   color: #939aa1;
+  font-family: "DM Mono"
 }
 
 .cd-container a {
   color: #30434e;
   text-decoration: none;
-  font-family: "Open Sans", sans-serif;
+  font-family: "DM Sans", "Open Sans", sans-serif;
 }
 
 .cd-container img {
@@ -485,7 +488,7 @@ body:after {
 }
 
 .cd-container h1, .cd-container h2 {
-  font-family: "Open Sans", sans-serif;
+  font-family: "DM Sans", "Open Sans", sans-serif;
   font-weight: bold;
 }
 
@@ -627,7 +630,7 @@ Modules - reusable parts of our design
 }
 
 #carbonads {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "DM Sans", Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
   display: inline-block;
   overflow: hidden;
   max-width: 270px;
@@ -692,7 +695,7 @@ Modules - reusable parts of our design
 }
 
 .post-tags {
-  text-align: center;
+  text-align: initial;
   line-height: 35px;
 }
 
