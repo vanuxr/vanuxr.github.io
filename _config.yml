@@ -9,7 +9,7 @@ name: Vancouver UX Research Lab
 author: Eric Liu & Matthew Chun
 
 # Short bio or description (displayed in the header)
-description: The Vancouver UX Research group is a place for all user researchers, people who do research, or research enthusiasts.
+description: The Vancouver UX Research group is a place to gather for all user researchers, people who do research, or research enthusiasts.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
@@ -22,6 +22,7 @@ avatar: /images/reverie.png
 footer-links:
   dribbble:
   email: vanuxresearch@gmail.com
+  meetup: the-vancouver-ux-research-lab
   facebook:
   flickr:
   github:

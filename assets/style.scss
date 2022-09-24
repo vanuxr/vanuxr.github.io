@@ -37,6 +37,13 @@ body {
   width: 100%;
 }
 
+hr {
+  height: 1px;
+  background-color: #ccc;
+  border: none;
+  margin-top: 12px;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "DM Sans", -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: $darkerGray;
@@ -63,18 +70,18 @@ h2 {
   font-size: 24px;
 }
 
-@media (min-width: 769px){
+// @media (min-width: 769px){
 	// .post h2::before, .post h2::after {
-  .post h2::after {
-	    content: "";
-	    display: inline-block;
-	    vertical-align: middle;
-	    width: 92px;
-	    height: 1px;
-	    background: rgb(192, 211, 218);
-	    margin: 0px 30px;
-	}
-}
+//   .post h2::after {
+// 	    content: "";
+// 	    display: inline-block;
+// 	    vertical-align: middle;
+// 	    width: 92px;
+// 	    height: 1px;
+// 	    background: rgb(192, 211, 218);
+// 	    margin: 0px 30px;
+// 	}
+// }
 
 h3 {
   font-size: 20px;
@@ -168,12 +175,12 @@ span[data-pullquote] {
 span[data-pullquote]:before {
   content: attr(data-pullquote);
   float: right;
-  width: 200px;
+  width: 300px;
   margin: 0 0 0.5em 30px;
   padding: 0 -5% 0 0;
   font-size: 1.3em;
   font-style: italic;
-  color: green;
+  color: $salmon;
   text-align: center;
 }
 
@@ -184,6 +191,11 @@ a {
   &:hover, &:active {
     color: $blue;
   }
+}
+
+p a {
+  color: $blue;
+  text-decoration: underline;
 }
 
 ul, ol {
@@ -397,8 +409,10 @@ nav {
   }
 
   .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
+    text-transform: capitalize;
+    font-style: italic;
+    font-size: 17px;
+    text-decoration: underline;
   }
 }
 
@@ -415,7 +429,6 @@ nav {
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 89px;
   background-color: $lightGray;
 }
 
@@ -703,7 +716,7 @@ Modules - reusable parts of our design
   font-size: 14.5px;
   padding: 2px 13px;
   border: none;
-  background-color: #4CAF50;
+  background-color: $blue;
   border-radius: 50px;
   color: #fff;
 }
@@ -775,7 +788,7 @@ Modules - reusable parts of our design
 
 .subscribeBtn {
   width: 30%;
-  background-color: #4CAF50;
+  background-color: $salmon;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;

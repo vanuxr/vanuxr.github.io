@@ -13,10 +13,11 @@ layout: default
         </div>
       </a>
       <div class="entry">
+        {% if post.hero-img %}<img src="{{ post.hero-img }}" alt="{{ post.hero-img-alt }}" />{% endif %}
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Continue Reading</a>
     </article>
   {% endfor %}
 
