@@ -409,8 +409,9 @@ nav {
   }
 
   .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
+    text-transform: capitalize;
+    font-style: italic;
+    font-size: 17px;
     text-decoration: underline;
   }
 }
