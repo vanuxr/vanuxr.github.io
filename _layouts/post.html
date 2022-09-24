@@ -22,13 +22,14 @@ layout: default
       {% endfor %}
     </div>
   </div>
-    
+
   <div class="entry">
+    <img src="{{ page.hero-img }}" alt="{{ page.hero-img-alt }}" />
     {{ content }}
   </div>
 
   <div>
-    <p><span class="share-box">Share:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a>, <a href="https://www.linkedin.com/sharing/share-offsite/?url={{site.url}}{{page.url}}" target="_blank">LinkedIn</a></p>
+    <p><span class="share-box">Share:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a>, <a href="https://www.linkedin.com/shareArticle?mini=true&url={{site.url}}{{page.url}}" target="_blank">LinkedIn</a></p>
   </div>
 
   <!--<div class="date">
