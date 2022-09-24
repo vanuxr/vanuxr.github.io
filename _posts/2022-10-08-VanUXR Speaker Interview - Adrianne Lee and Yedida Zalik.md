@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VanUXR Speaker Interview - Adrianne Lee and Yedida Zalik
-categories: Speaker
+categories: Speaker-Interview Content-Design 
 author: Eric Liu
 hero-img: ../assets/adrianne%20yedida.png
 hero-img-alt: Adrianne Lee & Yedida Zalik

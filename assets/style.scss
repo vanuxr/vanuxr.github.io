@@ -180,7 +180,7 @@ span[data-pullquote]:before {
   padding: 0 -5% 0 0;
   font-size: 1.3em;
   font-style: italic;
-  color: green;
+  color: $salmon;
   text-align: center;
 }
 
@@ -429,7 +429,6 @@ nav {
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 89px;
   background-color: $lightGray;
 }
 
@@ -717,7 +716,7 @@ Modules - reusable parts of our design
   font-size: 14.5px;
   padding: 2px 13px;
   border: none;
-  background-color: #4CAF50;
+  background-color: $blue;
   border-radius: 50px;
   color: #fff;
 }
@@ -789,7 +788,7 @@ Modules - reusable parts of our design
 
 .subscribeBtn {
   width: 30%;
-  background-color: #4CAF50;
+  background-color: $salmon;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
