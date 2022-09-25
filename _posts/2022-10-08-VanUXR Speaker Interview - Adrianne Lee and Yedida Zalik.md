@@ -1,10 +1,11 @@
 ---
 layout: post
 title: VanUXR Speaker Interview - Adrianne Lee and Yedida Zalik
-categories: Speaker-Interview Content-Design 
 author: Eric Liu
+author-link: https://twitter.com/hedonisticeric
 hero-img: ../assets/adrianne%20yedida.png
 hero-img-alt: Adrianne Lee & Yedida Zalik
+categories: Speaker-Interview Content-Design 
 ---
 
 Joining us online from [Canadian Digital Services](https://digital.canada.ca/) in Ontario this past August, was Adrianne Lee and Yedida Zalik. Their talk and workshop [Making privacy and consent forms easier to understand](https://www.meetup.com/the-vancouver-ux-research-lab/events/287285896/) was a great preposition of how a person’s participation in the research deserves to be considered and treated as its own user journey, starting with a thoughtful content design of the consent form. We asked them a few questions about themselves as professionals in this field.
