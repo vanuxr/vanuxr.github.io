@@ -477,6 +477,9 @@ body:after {
   @include mobile {
     height: 136px;
   }
+  @media screen and (max-width: 396px) {
+    height: 164px;
+  }
 }
 
 .post h1{
