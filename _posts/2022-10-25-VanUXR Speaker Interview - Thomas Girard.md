@@ -9,7 +9,7 @@ categories: Speaker-Interview
 published: true
 ---
 
-In anticipation for our November event [User Experience & Sophocles @ BrainStation Vancouver](https://www.meetup.com/the-vancouver-ux-research-lab/events/289223821/), we had a short chat with Emergin Scholar, Thomas Girard, about his view on qualitative research, channeling empahty, and the possibility of imagination.
+In anticipation for our November event [UX Research Method - Sopheclean Prototyping @ BrainStation Vancouver](https://www.meetup.com/the-vancouver-ux-research-lab/events/289223821/), we had a short chat with Emergin Scholar, Thomas Girard, about his view on qualitative research, channeling empahty, and the possibility of imagination.
 
 ---
 
