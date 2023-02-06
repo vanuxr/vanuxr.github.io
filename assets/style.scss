@@ -283,7 +283,7 @@ p > img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  // border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -292,9 +292,8 @@ p > img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
+  width: 220px;
+  margin-top: 28px;
 
   @include mobile {
     float: none;
@@ -475,11 +474,11 @@ body:after {
   overflow: hidden;
   z-index: -1;
   @include mobile {
-    height: 136px;
+    height: 102px;
   }
-  @media screen and (max-width: 396px) {
-    height: 164px;
-  }
+  // @media screen and (max-width: 680px) {
+  //   height: 164px;
+  // }
 }
 
 .post h1{

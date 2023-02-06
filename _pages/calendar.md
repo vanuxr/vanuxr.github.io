@@ -27,4 +27,6 @@ Calendars of ux research related meet-ups:
 
 [IxDA Vancouver](https://www.meetup.com/ixda-vancouver/events/)
 
+[Coffee & UX](https://www.meetup.com/coffee-ux/)
+
 <!-- https://www.meetup.com/the-vancouver-ux-research-lab/events/calendar/ -->
