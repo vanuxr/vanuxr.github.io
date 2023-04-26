@@ -476,8 +476,14 @@ body:after {
   @media screen and (max-width: 393px) {
     height: 132px;
   }
-  @media screen and (max-width: 680px) {
-    height: 164px;
+  @media screen and (min-width: 394px) {
+    height: 184px;
+  }
+  @media screen and (min-width: 428px) {
+    height: 168px;
+  }
+  @media screen and (min-width: 648px) {
+    height: 96px;
   }
 }
 
