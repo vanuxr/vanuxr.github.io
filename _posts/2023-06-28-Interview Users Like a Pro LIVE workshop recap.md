@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interview Users Like a Pro: LIVE workshop recap
+title: Interview Users Like a Pro - LIVE workshop recap
 author: Eric Liu
 author-link: https://linkedin.com/in/ericmengchenliu
 hero-img: https://secure.meetupstatic.com/photos/event/e/a/5/a/highres_514019994.webp
