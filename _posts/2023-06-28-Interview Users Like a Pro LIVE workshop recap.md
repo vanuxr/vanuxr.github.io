@@ -25,6 +25,3 @@ You can also join the [VanUXR Slack](https://join.slack.com/t/vanuxr/shared_invi
 The original meetup event link is here, and if you’d like to be notified of future events like this (and more), sign up and join our meet-up group. Also, if you are interested in giving a presentation at the meet-up, or supporting the meetup in any way, shape, or form, please email [vanuxresearch@gmail.com](mailto: vanuxresearch@gmail.com).
 
 ---
-
-
----
