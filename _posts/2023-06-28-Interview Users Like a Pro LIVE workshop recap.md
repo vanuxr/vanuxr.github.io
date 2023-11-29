@@ -14,17 +14,14 @@ Last week, many UX professionals and students joined the skill-building workshop
 All photo credits to [@jarell.jpeg](https://instagram.com/jarell.jpeg?igshid=MjAxZDBhZDhlNA==).
 
 Matthias and Lavanya’s presentation was recorded and uploaded to our YouTube channel:
-<iframe width="720" height="405" src="https://www.youtube.com/embed/WvjAJl41A8A?si=AbGLQdfiL4A7Il59" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+<iframe  style="max-width: 100%"width="720" height="405" src="https://www.youtube.com/embed/WvjAJl41A8A?si=AbGLQdfiL4A7Il59" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
 We have compiled a list of resources that goes beyond conducting the user interviews:
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQ6XYRyGXd891fDtn_1X8q-PRJLBeRbN6eve97Zuc0nodEiUMZmdQ1k1uurrcku5Vd4Jhv6GQTnpLS-/pub?embedded=true" width="720" height="705"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQ6XYRyGXd891fDtn_1X8q-PRJLBeRbN6eve97Zuc0nodEiUMZmdQ1k1uurrcku5Vd4Jhv6GQTnpLS-/pub?embedded=true" width="720" height="705" style="max-width: 100%"></iframe>
 Thanks again to [Matt Chun](https://www.linkedin.com/in/matthew-chun-7777305b/) for the recording!
 
 You can also join the [VanUXR Slack](https://join.slack.com/t/vanuxr/shared_invite/zt-1xh8hxxxf-YDHamEtIpfHJI~TQDGJ5Qg) and find the #user-interviews channel to discuss more on this topic.
 
 The original meetup event link is here, and if you’d like to be notified of future events like this (and more), sign up and join our meet-up group. Also, if you are interested in giving a presentation at the meet-up, or supporting the meetup in any way, shape, or form, please email [vanuxresearch@gmail.com](mailto: vanuxresearch@gmail.com).
-
----
-
 
 ---
