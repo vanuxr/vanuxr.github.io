@@ -14,7 +14,7 @@ Last week, many UX professionals and students joined the skill-building workshop
 All photo credits to [@jarell.jpeg](https://instagram.com/jarell.jpeg?igshid=MjAxZDBhZDhlNA==).
 
 Matthias and Lavanya’s presentation was recorded and uploaded to our YouTube channel:
-<iframe  style="max-width: 100%"width="720" height="405" src="https://www.youtube.com/embed/WvjAJl41A8A?si=AbGLQdfiL4A7Il59" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+<iframe  style="max-width: 100%"width="720" height="405" src="https://www.youtube.com/embed/WvjAJl41A8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
 We have compiled a list of resources that goes beyond conducting the user interviews:
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQ6XYRyGXd891fDtn_1X8q-PRJLBeRbN6eve97Zuc0nodEiUMZmdQ1k1uurrcku5Vd4Jhv6GQTnpLS-/pub?embedded=true" width="720" height="705" style="max-width: 100%"></iframe>
